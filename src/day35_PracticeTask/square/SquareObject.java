@@ -1,4 +1,4 @@
-package day35_PracticeTask;
+package day35_PracticeTask.square;
 
 public class SquareObject {
 
@@ -10,13 +10,6 @@ public class SquareObject {
 
         System.out.println(square1.calcArea());
         System.out.println(square1.calcPerimeter());
-
-
-
-
-
-
-
 
 
     }

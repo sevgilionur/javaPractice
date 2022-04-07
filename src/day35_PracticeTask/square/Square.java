@@ -1,4 +1,4 @@
-package day35_PracticeTask;
+package day35_PracticeTask.square;
 
 public class Square {
 
@@ -13,7 +13,7 @@ public class Square {
     }
 
     public void setSide(double side){
-        if(side < 0){
+        if(side <= 0){
             return;
         }
         this.side= side;

@@ -23,7 +23,7 @@ public class Credentials {
 
     public void setPassword(String password) {
         if( !(isStrongPassword(password))){
-            System.out.println("Pssword " + password + " is not strong enough");
+            System.out.println("Password " + password + " is not strong enough");
             System.exit(1);
         }
         this.password= password;

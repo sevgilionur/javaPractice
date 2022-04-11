@@ -1,4 +1,4 @@
-package day36_PracticeTask.employee;
+package day36_PracticeTask.employeeTask;
 
 public class Tester extends Employee{
 

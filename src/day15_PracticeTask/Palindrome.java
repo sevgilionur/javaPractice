@@ -27,7 +27,7 @@ public class Palindrome {
                 System.out.println("False");
             }
 
-scan.close();
+            scan.close();
 
     }
 }

@@ -27,7 +27,7 @@ public class StringAndChar {
     }
 }
 /*
-2. Write a program that asks user to entera string and a char, the
+2. Write a program that asks user to enter a string and a char, the
 returns the frequency of the char from the given string
 Ex:
 inputs:

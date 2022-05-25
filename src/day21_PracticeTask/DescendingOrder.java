@@ -14,14 +14,14 @@ public class DescendingOrder {
 
         System.out.println(Arrays.toString(num));
 
-        int[] descending = new int[num.length];
+        int[] descendingOrder = new int[num.length];
 
         for (int i = num.length - 1, j=0; i >= 0; i--, j++) {
 
-            descending[j]= num[i];
+            descendingOrder[j]= num[i];
         }
 
-        System.out.println(Arrays.toString(descending));
+        System.out.println(Arrays.toString(descendingOrder));
 
 
 

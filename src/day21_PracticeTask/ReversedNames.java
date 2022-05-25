@@ -12,7 +12,7 @@ public class ReversedNames {
 
             for (int i = each.length() - 1; i >= 0; i--) {
 
-                reversed+= each.charAt(i);
+                reversed+=each.charAt(i);
             }
             System.out.println(reversed);
         }

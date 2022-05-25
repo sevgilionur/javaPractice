@@ -4,7 +4,7 @@ package day11_PracticeTask;
 public class ExamResult {
     public static void main(String[] args) {
 
-        char ch = 'G';
+        char ch = 'A';
 
         //boolean examResult = ch == 'A' || ch == 'B' || ch == 'C' || ch == 'D' || ch == 'F';
 

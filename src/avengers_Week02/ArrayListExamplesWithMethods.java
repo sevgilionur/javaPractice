@@ -68,13 +68,5 @@ public class ArrayListExamplesWithMethods {
 
 
 
-
-
-
-
-
-
-
-
     }
 }

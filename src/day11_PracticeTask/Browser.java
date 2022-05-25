@@ -21,7 +21,6 @@ public class Browser {
                 break;
             default:
                 result = "Not valid Browser";
-
         }
 
         System.out.println(result);
